@@ -6,6 +6,7 @@
 - requestsライブラリのテスト
 - turtleモジュールの演習
 - GitとGitHubの使い方の学習
+- Web版もあります
 
 ## 実行方法
 VS Code で Python ファイルを開き、ターミナルで `python ファイル名.py` を実行してください。
